@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71b93e30-8bdf-4769-af92-612e3026187a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework1/task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework1/task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework1/task3.java" afterDir="false" />
-    </list>
+    <list default="true" id="71b93e30-8bdf-4769-af92-612e3026187a" name="Changes" comment="Finished first homework" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,11 +57,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676581123712</updated>
-      <workItem from="1676581123713" duration="2820000" />
+      <workItem from="1676581123713" duration="3163000" />
     </task>
+    <task id="LOCAL-00001" summary="Finished first homework">
+      <created>1676585299526</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676585299526</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Finished first homework">
+      <created>1676585404516</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676585404516</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Finished first homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished first homework" />
   </component>
 </project>
