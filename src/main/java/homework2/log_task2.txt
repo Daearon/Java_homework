@@ -1,0 +1,36 @@
+февр. 17, 2023 11:45:10 AM homework2.task2 bubbleSort
+INFO: [2, 6, 4, 0, 8, 23, 1, 7, 11, 9]
+февр. 17, 2023 11:45:10 AM homework2.task2 bubbleSort
+INFO: [2, 4, 6, 0, 8, 23, 1, 7, 11, 9]
+февр. 17, 2023 11:45:10 AM homework2.task2 bubbleSort
+INFO: [2, 4, 0, 6, 8, 23, 1, 7, 11, 9]
+февр. 17, 2023 11:45:10 AM homework2.task2 bubbleSort
+INFO: [2, 4, 0, 6, 8, 23, 1, 7, 11, 9]
+февр. 17, 2023 11:45:10 AM homework2.task2 bubbleSort
+INFO: [2, 4, 0, 6, 8, 23, 1, 7, 11, 9]
+февр. 17, 2023 11:45:10 AM homework2.task2 bubbleSort
+INFO: [2, 4, 0, 6, 8, 1, 23, 7, 11, 9]
+февр. 17, 2023 11:45:10 AM homework2.task2 bubbleSort
+INFO: [2, 4, 0, 6, 8, 1, 7, 23, 11, 9]
+февр. 17, 2023 11:45:10 AM homework2.task2 bubbleSort
+INFO: [2, 4, 0, 6, 8, 1, 7, 11, 23, 9]
+февр. 17, 2023 11:45:10 AM homework2.task2 bubbleSort
+INFO: [2, 4, 0, 6, 8, 1, 7, 11, 9, 23]
+февр. 17, 2023 11:45:10 AM homework2.task2 bubbleSort
+INFO: [2, 4, 0, 6, 8, 1, 7, 11, 9, 23]
+февр. 17, 2023 11:45:10 AM homework2.task2 bubbleSort
+INFO: [2, 0, 4, 6, 8, 1, 7, 11, 9, 23]
+февр. 17, 2023 11:45:10 AM homework2.task2 bubbleSort
+INFO: [2, 0, 4, 6, 8, 1, 7, 11, 9, 23]
+февр. 17, 2023 11:45:10 AM homework2.task2 bubbleSort
+INFO: [2, 0, 4, 6, 8, 1, 7, 11, 9, 23]
+февр. 17, 2023 11:45:10 AM homework2.task2 bubbleSort
+INFO: [2, 0, 4, 6, 1, 8, 7, 11, 9, 23]
+февр. 17, 2023 11:45:10 AM homework2.task2 bubbleSort
+INFO: [2, 0, 4, 6, 1, 7, 8, 11, 9, 23]
+февр. 17, 2023 11:45:10 AM homework2.task2 bubbleSort
+INFO: [2, 0, 4, 6, 1, 7, 8, 11, 9, 23]
+февр. 17, 2023 11:45:10 AM homework2.task2 bubbleSort
+INFO: [2, 0, 4, 6, 1, 7, 8, 9, 11, 23]
+февр. 17, 2023 11:45:10 AM homework2.task2 bubbleSort
+INFO: [2, 0, 4, 6, 1, 7, 8, 9, 11, 23]
