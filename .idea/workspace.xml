@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71b93e30-8bdf-4769-af92-612e3026187a" name="Changes" comment="Finished second homework">
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework3/task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework3/task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework3/task3.java" afterDir="false" />
+    <list default="true" id="71b93e30-8bdf-4769-af92-612e3026187a" name="Changes" comment="Finished third homework">
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework4/task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework4/task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework4/task3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +54,26 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework4.task1" />
+      <module name="Homework_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.task1" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,7 +83,8 @@
       <option name="presentableId" value="Default" />
       <updated>1676581123712</updated>
       <workItem from="1676581123713" duration="6918000" />
-      <workItem from="1677174446955" duration="1172000" />
+      <workItem from="1677174446955" duration="1480000" />
+      <workItem from="1677280842380" duration="2127000" />
     </task>
     <task id="LOCAL-00001" summary="Finished first homework">
       <created>1676585299526</created>
@@ -93,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676623563548</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Finished third homework">
+      <created>1677175923925</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677175923925</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,6 +130,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Finished first homework" />
     <MESSAGE value="Finished second homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished second homework" />
+    <MESSAGE value="Finished third homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished third homework" />
   </component>
 </project>
