@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71b93e30-8bdf-4769-af92-612e3026187a" name="Changes" comment="Finished third homework">
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework4/task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework4/task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework4/task3.java" afterDir="false" />
+    <list default="true" id="71b93e30-8bdf-4769-af92-612e3026187a" name="Changes" comment="Finished fourth homework">
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework5/task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework5/task2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +83,8 @@
       <updated>1676581123712</updated>
       <workItem from="1676581123713" duration="6918000" />
       <workItem from="1677174446955" duration="1480000" />
-      <workItem from="1677280842380" duration="2127000" />
+      <workItem from="1677280842380" duration="2944000" />
+      <workItem from="1677799619717" duration="1233000" />
     </task>
     <task id="LOCAL-00001" summary="Finished first homework">
       <created>1676585299526</created>
@@ -121,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677175923925</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Finished fourth homework">
+      <created>1677284422153</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1677284422153</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +138,7 @@
     <MESSAGE value="Finished first homework" />
     <MESSAGE value="Finished second homework" />
     <MESSAGE value="Finished third homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished third homework" />
+    <MESSAGE value="Finished fourth homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished fourth homework" />
   </component>
 </project>
